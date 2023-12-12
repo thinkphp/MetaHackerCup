@@ -1,0 +1,2 @@
+# MetaHackerCup
+Meta Coding Competitions
